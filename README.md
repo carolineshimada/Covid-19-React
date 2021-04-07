@@ -1,4 +1,4 @@
-## Covid 19 - Preciso ir ao médico?
+## Covid 19 - Preciso ir ao médico?  - Em construção
 <p align="center">
 <img src="https://github.com/carolineshimada/Covid-19-React/blob/main/my-app/app.gif" >
 </p>
