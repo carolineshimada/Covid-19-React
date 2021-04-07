@@ -1,5 +1,8 @@
 Covid 19 - Devo ir ao médico?
 ![Alt Text](app.gif)
+<p align="center">
+<img src="https://github.com/carolineshimada/Covid-19-React/blob/main/my-app/app.gif" >
+</p>
 
 ## Índice
 
